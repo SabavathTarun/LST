@@ -1,0 +1,10 @@
+streamlit>=1.37
+rasterio
+geopandas
+shapely>=2.0
+numpy
+pandas
+matplotlib
+requests
+folium
+streamlit-folium
